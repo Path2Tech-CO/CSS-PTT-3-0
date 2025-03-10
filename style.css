@@ -1,15 +1,12 @@
 #main-content {
-  width: 100vw;
-  height: 100vh;
-  color: white;
   /* Add Background Color Below this comment */
-
+  background-color: #fd5c63;
   /* Add Background Color Above this comment */
 }
 
 .text-yellow {
   /* Add color below this comment */
-
+  color: rgb(255, 255, 0);
   /* Add color above this comment */
   font-size: 24px;
 }
@@ -27,7 +24,7 @@
 
 h1 {
   /* Add color below this comment */
-
+  color:blue;
   /* Add color above this comment */
-  font-size: 32px;
+ 
 }
